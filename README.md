@@ -1,2 +1,7 @@
 # REACTion
-a series of problems implemented using the React framework
+a series of problems implemented using the React framework, created for the purpose of learning.
+
+# Summary
+1. Sort the Rainbow
+Given seven colored blocks, sort the blocks in the order in which color appears on a rainbow. 
+While solving the problem, feedback on how you are doing will be automatically given based on user progress (the state of the puzzle component).
