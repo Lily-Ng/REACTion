@@ -1,0 +1,32 @@
+body {
+  width: 100%;
+}
+
+.Question{
+  margin-top: 28%;
+  text-align: center;
+}
+
+.Puzzle{
+  margin: auto;
+  display: inline-block;
+
+}
+
+.Block{
+  height: 100px;
+  width: 100px;
+  float: left;
+  margin-right: 5px;
+  text-align: center;
+  cursor: pointer;
+  -webkit-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  border-color: transparent;
+}
+
+.Block:hover {
+  opacity: 0.5;
+}
