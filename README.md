@@ -5,7 +5,8 @@ a series of problems implemented using the React framework, created for the purp
 1. Install NodeJS
 2. git clone this repository
 3. Enter into the directory of the problem
-3. npm start
+4. npm start
+5. application will be accessible on localhost:3000
 
 # Summary
 - Sort the Rainbow\
