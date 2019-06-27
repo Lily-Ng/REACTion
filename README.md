@@ -4,9 +4,10 @@ a series of problems implemented using the React framework, created for the purp
 # How to Run
 1. Install NodeJS
 2. git clone this repository
-3. Enter into the directory of the problem
-4. npm start
-5. application will be accessible on localhost:3000
+3. follow steps on creating a react app here: https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
+4. replace the src directory with the content of src uploaded in this directory
+5. npm start
+6. application will be accessible on localhost:3000
 
 # Summary
 - Sort the Rainbow\
